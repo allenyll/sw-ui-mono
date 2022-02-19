@@ -1,0 +1,16 @@
+.search-container .el-form .el-form-item .el-form-item__label {
+    color: #303133;
+    font-weight: 1;
+}
+.search-container .el-form .el-form-item {
+    margin-bottom: 5px;
+}
+.search-container .el-card__body {
+    padding: 10px 20px;
+}
+.operate-container {
+    margin: 5px 0;
+}
+.operate-container .el-card__body {
+    padding: 10px 20px;
+}
